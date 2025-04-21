@@ -127,3 +127,6 @@ compiled
 
 # Cython debug symbols
 cython_debug/
+
+# Task storage file
+tasks.json
